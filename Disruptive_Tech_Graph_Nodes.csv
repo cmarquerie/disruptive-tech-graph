@@ -1,0 +1,66 @@
+id,type,label
+Intelligence,StrategicNode,Intelligence
+Intelligence::Edge AI,InnovationCell,Edge AI
+Intelligence::Edge AI::TinyML,KET,TinyML
+Intelligence::Edge AI::Neuromorphic Chips,KET,Neuromorphic Chips
+Intelligence::Edge AI::Edge TPU,KET,Edge TPU
+Intelligence::Edge AI::Private AI,KET,Private AI
+Intelligence::Edge AI::Federated Learning,KET,Federated Learning
+Intelligence::Autonomous Systems,InnovationCell,Autonomous Systems
+Intelligence::Autonomous Systems::Reinforcement Learning,KET,Reinforcement Learning
+Intelligence::Autonomous Systems::Sensor Fusion,KET,Sensor Fusion
+Intelligence::Autonomous Systems::SLAM,KET,SLAM
+Intelligence::Autonomous Systems::Path Planning Algorithms,KET,Path Planning Algorithms
+Intelligence::Autonomous Systems::Real-Time Inference Engines,KET,Real-Time Inference Engines
+Robotics & Materials,StrategicNode,Robotics & Materials
+Robotics & Materials::Programmable Matter,InnovationCell,Programmable Matter
+Robotics & Materials::Programmable Matter::Metamaterials,KET,Metamaterials
+Robotics & Materials::Programmable Matter::4D Printing,KET,4D Printing
+Robotics & Materials::Programmable Matter::Shape Memory Polymers,KET,Shape Memory Polymers
+Robotics & Materials::Programmable Matter::Stimuli-Responsive Materials,KET,Stimuli-Responsive Materials
+Robotics & Materials::Programmable Matter::Soft Robotics,KET,Soft Robotics
+Robotics & Materials::Digital Twins,InnovationCell,Digital Twins
+Robotics & Materials::Digital Twins::3D Modeling Engines,KET,3D Modeling Engines
+Robotics & Materials::Digital Twins::IoT Sensors,KET,IoT Sensors
+Robotics & Materials::Digital Twins::Simulation Platforms,KET,Simulation Platforms
+Robotics & Materials::Digital Twins::Cyber-Physical Systems,KET,Cyber-Physical Systems
+Robotics & Materials::Digital Twins::Cloud Twins,KET,Cloud Twins
+Energy,StrategicNode,Energy
+Energy::Fusion Energy,InnovationCell,Fusion Energy
+Energy::Fusion Energy::Tokamak Reactors,KET,Tokamak Reactors
+Energy::Fusion Energy::Laser-Driven Fusion,KET,Laser-Driven Fusion
+Energy::Fusion Energy::Plasma Confinement,KET,Plasma Confinement
+Energy::Fusion Energy::Superconducting Magnets,KET,Superconducting Magnets
+Energy::Fusion Energy::Deuterium-Tritium Fuel,KET,Deuterium-Tritium Fuel
+Energy::Smart Grids,InnovationCell,Smart Grids
+Energy::Smart Grids::Smart Meters,KET,Smart Meters
+Energy::Smart Grids::Demand Forecasting AI,KET,Demand Forecasting AI
+Energy::Smart Grids::P2P Energy Platforms,KET,P2P Energy Platforms
+Energy::Smart Grids::Grid Digital Twins,KET,Grid Digital Twins
+Energy::Smart Grids::Energy Load Balancers,KET,Energy Load Balancers
+Biotechnology,StrategicNode,Biotechnology
+Biotechnology::CRISPR Gene Editing,InnovationCell,CRISPR Gene Editing
+Biotechnology::CRISPR Gene Editing::Cas9 and Cas12,KET,Cas9 and Cas12
+Biotechnology::CRISPR Gene Editing::Base Editing,KET,Base Editing
+Biotechnology::CRISPR Gene Editing::Prime Editing,KET,Prime Editing
+Biotechnology::CRISPR Gene Editing::Gene Drive Systems,KET,Gene Drive Systems
+Biotechnology::CRISPR Gene Editing::Delivery Vectors,KET,Delivery Vectors
+Biotechnology::Synthetic Biology,InnovationCell,Synthetic Biology
+Biotechnology::Synthetic Biology::Gene Circuits,KET,Gene Circuits
+Biotechnology::Synthetic Biology::DNA Synthesis Platforms,KET,DNA Synthesis Platforms
+Biotechnology::Synthetic Biology::Cell-Free Systems,KET,Cell-Free Systems
+Biotechnology::Synthetic Biology::Chassis Organisms,KET,Chassis Organisms
+Biotechnology::Synthetic Biology::BioDesign Software,KET,BioDesign Software
+Sustainability,StrategicNode,Sustainability
+Sustainability::Circular Economy,InnovationCell,Circular Economy
+Sustainability::Circular Economy::Smart Waste Sorters,KET,Smart Waste Sorters
+Sustainability::Circular Economy::Robotic Disassembly,KET,Robotic Disassembly
+Sustainability::Circular Economy::Closed-Loop Materials,KET,Closed-Loop Materials
+Sustainability::Circular Economy::Reverse Logistics Platforms,KET,Reverse Logistics Platforms
+Sustainability::Circular Economy::Material Passporting,KET,Material Passporting
+Sustainability::Carbon Capture,InnovationCell,Carbon Capture
+Sustainability::Carbon Capture::Direct Air Capture,KET,Direct Air Capture
+Sustainability::Carbon Capture::Biochar Reactors,KET,Biochar Reactors
+Sustainability::Carbon Capture::Mineralization Units,KET,Mineralization Units
+Sustainability::Carbon Capture::Ocean Alkalinity Enhancement,KET,Ocean Alkalinity Enhancement
+Sustainability::Carbon Capture::Carbon Accounting AI,KET,Carbon Accounting AI

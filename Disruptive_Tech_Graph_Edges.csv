@@ -1,0 +1,61 @@
+source,target,relation
+Intelligence,Intelligence::Edge AI,hasInnovationCell
+Intelligence::Edge AI,Intelligence::Edge AI::TinyML,hasKET
+Intelligence::Edge AI,Intelligence::Edge AI::Neuromorphic Chips,hasKET
+Intelligence::Edge AI,Intelligence::Edge AI::Edge TPU,hasKET
+Intelligence::Edge AI,Intelligence::Edge AI::Private AI,hasKET
+Intelligence::Edge AI,Intelligence::Edge AI::Federated Learning,hasKET
+Intelligence,Intelligence::Autonomous Systems,hasInnovationCell
+Intelligence::Autonomous Systems,Intelligence::Autonomous Systems::Reinforcement Learning,hasKET
+Intelligence::Autonomous Systems,Intelligence::Autonomous Systems::Sensor Fusion,hasKET
+Intelligence::Autonomous Systems,Intelligence::Autonomous Systems::SLAM,hasKET
+Intelligence::Autonomous Systems,Intelligence::Autonomous Systems::Path Planning Algorithms,hasKET
+Intelligence::Autonomous Systems,Intelligence::Autonomous Systems::Real-Time Inference Engines,hasKET
+Robotics & Materials,Robotics & Materials::Programmable Matter,hasInnovationCell
+Robotics & Materials::Programmable Matter,Robotics & Materials::Programmable Matter::Metamaterials,hasKET
+Robotics & Materials::Programmable Matter,Robotics & Materials::Programmable Matter::4D Printing,hasKET
+Robotics & Materials::Programmable Matter,Robotics & Materials::Programmable Matter::Shape Memory Polymers,hasKET
+Robotics & Materials::Programmable Matter,Robotics & Materials::Programmable Matter::Stimuli-Responsive Materials,hasKET
+Robotics & Materials::Programmable Matter,Robotics & Materials::Programmable Matter::Soft Robotics,hasKET
+Robotics & Materials,Robotics & Materials::Digital Twins,hasInnovationCell
+Robotics & Materials::Digital Twins,Robotics & Materials::Digital Twins::3D Modeling Engines,hasKET
+Robotics & Materials::Digital Twins,Robotics & Materials::Digital Twins::IoT Sensors,hasKET
+Robotics & Materials::Digital Twins,Robotics & Materials::Digital Twins::Simulation Platforms,hasKET
+Robotics & Materials::Digital Twins,Robotics & Materials::Digital Twins::Cyber-Physical Systems,hasKET
+Robotics & Materials::Digital Twins,Robotics & Materials::Digital Twins::Cloud Twins,hasKET
+Energy,Energy::Fusion Energy,hasInnovationCell
+Energy::Fusion Energy,Energy::Fusion Energy::Tokamak Reactors,hasKET
+Energy::Fusion Energy,Energy::Fusion Energy::Laser-Driven Fusion,hasKET
+Energy::Fusion Energy,Energy::Fusion Energy::Plasma Confinement,hasKET
+Energy::Fusion Energy,Energy::Fusion Energy::Superconducting Magnets,hasKET
+Energy::Fusion Energy,Energy::Fusion Energy::Deuterium-Tritium Fuel,hasKET
+Energy,Energy::Smart Grids,hasInnovationCell
+Energy::Smart Grids,Energy::Smart Grids::Smart Meters,hasKET
+Energy::Smart Grids,Energy::Smart Grids::Demand Forecasting AI,hasKET
+Energy::Smart Grids,Energy::Smart Grids::P2P Energy Platforms,hasKET
+Energy::Smart Grids,Energy::Smart Grids::Grid Digital Twins,hasKET
+Energy::Smart Grids,Energy::Smart Grids::Energy Load Balancers,hasKET
+Biotechnology,Biotechnology::CRISPR Gene Editing,hasInnovationCell
+Biotechnology::CRISPR Gene Editing,Biotechnology::CRISPR Gene Editing::Cas9 and Cas12,hasKET
+Biotechnology::CRISPR Gene Editing,Biotechnology::CRISPR Gene Editing::Base Editing,hasKET
+Biotechnology::CRISPR Gene Editing,Biotechnology::CRISPR Gene Editing::Prime Editing,hasKET
+Biotechnology::CRISPR Gene Editing,Biotechnology::CRISPR Gene Editing::Gene Drive Systems,hasKET
+Biotechnology::CRISPR Gene Editing,Biotechnology::CRISPR Gene Editing::Delivery Vectors,hasKET
+Biotechnology,Biotechnology::Synthetic Biology,hasInnovationCell
+Biotechnology::Synthetic Biology,Biotechnology::Synthetic Biology::Gene Circuits,hasKET
+Biotechnology::Synthetic Biology,Biotechnology::Synthetic Biology::DNA Synthesis Platforms,hasKET
+Biotechnology::Synthetic Biology,Biotechnology::Synthetic Biology::Cell-Free Systems,hasKET
+Biotechnology::Synthetic Biology,Biotechnology::Synthetic Biology::Chassis Organisms,hasKET
+Biotechnology::Synthetic Biology,Biotechnology::Synthetic Biology::BioDesign Software,hasKET
+Sustainability,Sustainability::Circular Economy,hasInnovationCell
+Sustainability::Circular Economy,Sustainability::Circular Economy::Smart Waste Sorters,hasKET
+Sustainability::Circular Economy,Sustainability::Circular Economy::Robotic Disassembly,hasKET
+Sustainability::Circular Economy,Sustainability::Circular Economy::Closed-Loop Materials,hasKET
+Sustainability::Circular Economy,Sustainability::Circular Economy::Reverse Logistics Platforms,hasKET
+Sustainability::Circular Economy,Sustainability::Circular Economy::Material Passporting,hasKET
+Sustainability,Sustainability::Carbon Capture,hasInnovationCell
+Sustainability::Carbon Capture,Sustainability::Carbon Capture::Direct Air Capture,hasKET
+Sustainability::Carbon Capture,Sustainability::Carbon Capture::Biochar Reactors,hasKET
+Sustainability::Carbon Capture,Sustainability::Carbon Capture::Mineralization Units,hasKET
+Sustainability::Carbon Capture,Sustainability::Carbon Capture::Ocean Alkalinity Enhancement,hasKET
+Sustainability::Carbon Capture,Sustainability::Carbon Capture::Carbon Accounting AI,hasKET

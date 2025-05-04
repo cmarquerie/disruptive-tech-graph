@@ -1,0 +1,79 @@
+{
+    "DisruptiveTechnologiesOntology": {
+        "Intelligence": {
+            "definition": "The integration of artificial intelligence, machine learning, and digital cognitive systems that enhance decision-making, automation, and adaptability across domains.",
+            "innovation_cells": {
+                "Edge AI": {
+                    "definition": "AI algorithms and processing deployed directly on edge devices, enabling low-latency and decentralized intelligent systems.",
+                    "kets": {
+                        "TinyML": "Machine learning models designed to run on resource-constrained devices such as microcontrollers.",
+                        "Neuromorphic Chips": "Brain-inspired processors that simulate neurons and synapses for energy-efficient computing.",
+                        "Edge TPU": "Application-specific integrated circuits optimized for high-performance AI inference on edge devices.",
+                        "Private AI": "Technologies that ensure data privacy in AI applications, including differential privacy and homomorphic encryption.",
+                        "Federated Learning Frameworks": "Distributed ML systems that train models across decentralized data sources without centralizing data."
+                    }
+                }
+            }
+        },
+        "Robotics & Materials": {
+            "definition": "The domain of physical systems and smart materials enabling automation, structural innovation, and interactive machines across industries.",
+            "innovation_cells": {
+                "Programmable Matter": {
+                    "definition": "Materials engineered to change properties (shape, color, conductivity) in response to external stimuli.",
+                    "kets": {
+                        "Metamaterials": "Engineered structures with properties not found in nature, used for optics, acoustics, and electromagnetics.",
+                        "Shape Memory Polymers": "Materials that return to their original shape after deformation when exposed to a trigger.",
+                        "4D Printers": "Advanced 3D printers capable of fabricating objects that evolve over time or in response to stimuli.",
+                        "Stimuli-Responsive Materials": "Materials that react dynamically to changes in environment such as temperature or light.",
+                        "Self-Healing Materials": "Substances that can autonomously repair damage without external intervention."
+                    }
+                }
+            }
+        },
+        "Energy": {
+            "definition": "Advanced technologies for energy generation, storage, conversion, and optimization, aimed at supporting a clean and efficient energy transition.",
+            "innovation_cells": {
+                "Fusion Energy": {
+                    "definition": "Harnessing energy from nuclear fusion reactions that replicate the process powering the sun.",
+                    "kets": {
+                        "Tokamak Reactor": "A device that uses magnetic confinement to contain and control plasma for fusion reactions.",
+                        "Laser-Driven Fusion": "Fusion technique that uses high-powered lasers to compress fuel pellets to fusion conditions.",
+                        "Superconductors": "Materials with zero electrical resistance, used to generate powerful magnetic fields in reactors.",
+                        "Magnetic Confinement": "Technique to trap plasma using magnetic fields to sustain fusion reactions.",
+                        "Deuterium Fuel": "Isotope of hydrogen used as a primary fuel source for nuclear fusion."
+                    }
+                }
+            }
+        },
+        "Biotechnology": {
+            "definition": "Technological applications of biology involving manipulation of living systems and organisms for healthcare, agriculture, and synthetic biology.",
+            "innovation_cells": {
+                "CRISPR Platforms": {
+                    "definition": "Gene-editing technologies enabling precise modifications to DNA sequences in living organisms.",
+                    "kets": {
+                        "Cas9": "The most commonly used enzyme in CRISPR systems for cutting DNA at specific locations.",
+                        "Base Editors": "CRISPR-based tools that enable single-base changes in DNA without double-stranded breaks.",
+                        "Prime Editing": "An advanced CRISPR technique for precise insertions, deletions, and replacements of DNA sequences.",
+                        "Viral Vectors": "Delivery mechanisms that use modified viruses to transport genetic material into cells.",
+                        "Epigenetic Tools": "Technologies for modifying gene expression without changing the DNA sequence."
+                    }
+                }
+            }
+        },
+        "Sustainability": {
+            "definition": "Technologies and systems designed to restore and protect ecological balance, reduce resource consumption, and enable circular economies.",
+            "innovation_cells": {
+                "Circular Economy Tech": {
+                    "definition": "Technologies enabling the reduction, reuse, and recycling of materials in closed-loop systems.",
+                    "kets": {
+                        "Smart Waste Sorters": "AI-powered systems that automatically identify and sort recyclable materials.",
+                        "Robotic Disassembly": "Automated systems that disassemble products for component reuse and recycling.",
+                        "Closed-Loop Materials": "Materials designed to be continually reused without degradation.",
+                        "Circular Supply Chains": "Logistics systems that track and optimize material flows for reuse.",
+                        "Reuse Optimizers": "Software tools that identify optimal strategies for reusing materials and components."
+                    }
+                }
+            }
+        }
+    }
+}
